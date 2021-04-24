@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LaunchPage.unity
+    guid: ba7bd5558269f4468bc23da039b1be5f
+  - enabled: 1
+    path: Assets/Scenes/FIrstScreenScene.unity
+    guid: 8ae2cecc6a9ac486aa70121f1cd4c4f5
+  - enabled: 1
+    path: Assets/Scenes/CupPreview.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Guide1.unity
+    guid: bad85369a57514595966dbce2fa6f2c5
+  - enabled: 1
+    path: Assets/Scenes/Guide2.unity
+    guid: 2390c22442e224d6b8dcb0f262c3642d
+  - enabled: 1
+    path: Assets/Scenes/LaunchPage2.unity
+    guid: 3b1677b9e16a54c88a158cea1e612b56
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/TestRunner.unity
+    guid: 0d4525f9f008d4459af4c91e5c74de0d
+  - enabled: 1
+    path: Assets/Scenes/TestRunGuide.unity
+    guid: 87e5281a0a1454c32a66cd757bd6cb15
+  - enabled: 1
+    path: Assets/Scenes/Password.unity
+    guid: f7b0bbaf3d73f4d4e953b0a02edaa798
+  - enabled: 1
+    path: Assets/Scenes/CreatorGuide1.unity
+    guid: 1bc27421b2ead4c1cab74e9d82ea02c1
+  - enabled: 1
+    path: Assets/Scenes/CreatorGuide2.unity
+    guid: d25bb00b70d4e463a9fe16474829710e
+  m_configObjects: {}

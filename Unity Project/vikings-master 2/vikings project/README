@@ -1,0 +1,19 @@
+This Shell game Unity project is still currently under development.
+
+Individual components are being devloped in Unity and will be combined for a finished product.
+
+Testing cannot be completed until more of the final product is fully functional.
+
+Once each individual Unity component is operational a final Unity project will be released.
+
+That final unity project will include installation instructions for a user. 
+
+However this is currently being used to store data for our work in the mean time since each part is sectioned off.
+
+At this current time this project CANNOT have automated testing because it doesn't fit yet. 
+
+Once more finalized versions of the components have been developed a different testing will be used. 
+
+Our testing approach will be different since our product requires user input, so a python script to simulate a person will be made at a later time.
+
+

@@ -1,0 +1,29 @@
+Bugs
+
+
+Sprint 1:
+-issue when merging menu concept from Cody with the functions from Paul for main menu functionality (resolved)
+-unable to get input from desired preset on main menu (resolved)
+
+
+
+
+Sprint 2:
+-edge cases for cups/number of moves/speed have not been set yet, so error shows when putting in negative numbers or large numbers outside the testing environment on the main menu preset (resolved)
+-empty trial stacks are not aligning properly for the trial portion of the main menu (resolved) 
+-when attempting to change the ID block color, the entire screen gets a green filter instead of just the desired box on the main menu
+
+
+Sprint 3:
+-when attempting to change the ID block color, the entire screen gets a green filter instead of just the desired box on the main menu
+
+Sprint4:
+-cups would move the moment scene started and ignore the "begin" button (resolved)
+-cups would spawn twice, two sets, and only one set would move are button activation (resolved)
+-cups would infinitely move between their spots once the button was clicked once (resolved)
+-cups would sometimes move backwards and leave the scene (resolved)
+-cups would stop before reaching end position due to varying frame rate and the move being tied to the frame rate. (resolved)
+-cups on each move would slowly inch forward or backwards, depending on number of cups, until they went off screen if user kept activating the move. (resolved)
+
+-cups won't always start in the right position and when button is activated they shift into the correct positions and wait for a second button press (unresolved)
+ 

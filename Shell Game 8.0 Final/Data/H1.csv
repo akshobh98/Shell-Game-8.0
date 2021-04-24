@@ -1,0 +1,7 @@
+trial #,trial cups,trial moves,cup speed,Correct/Incorrect,time to response,
+1,2,1,0.75,Correct,1.513808,
+2,3,1,0.75,Correct,0.766569,
+3,4,2,0.75,Incorrect,0.964683,
+
+,,,Screen Resolution,Percent Correct,Total Time
+,,,2880 x 1800 @ 60Hz,66.6666666666667%,3.24506
